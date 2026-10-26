@@ -6,7 +6,7 @@ merece.* Endereço: **https://gislenecerimonial.github.io**
 
 | Botão | Ação |
 | --- | --- |
-| Salvar contato | Abre `contato.vcf` — (14) 93300-7561, Instagram e logo. No iPhone mostra direto "Criar Novo Contato"; no Android baixa o arquivo e o toque em *Abrir* leva aos Contatos |
+| Salvar contato | Abre `contato.vcf` — nome "Gislene Giorgette - Cerimonial", (14) 93300-7561, Instagram, logo e o lema nas notas. No iPhone mostra direto "Criar Novo Contato"; no Android baixa o arquivo e o toque em *Abrir* leva aos Contatos |
 | Instagram | https://www.instagram.com/gislene_cerimonialista/ |
 | WhatsApp | https://wa.me/5514933007561 — (14) 93300-7561 |
 
